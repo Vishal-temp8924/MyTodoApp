@@ -51,7 +51,7 @@ public class TodoList {
         // Add some todo items
         myTodoList.addTodoItem("Finish Java assignment");
         myTodoList.addTodoItem("Grocery shopping");
-	System.out.println("Changing in ADD DATE");
+	System.out.println("part 5 creating changes");
         
         // Display all items
         myTodoList.displayTodoItems();
